@@ -9,9 +9,7 @@ Included packs:
 - SilverBatteries
 - UraniumBatteries
 
-Not included:
-- EnzymeChargedBatteries
-- MidGameBatteries
+
 
 Install:
 1) Make sure CustomBatteries is already installed.
